@@ -10,7 +10,7 @@
 
  💼 I have **2.5 years experience** as Data Analyst and Data Specialist in e-commerce industry!
 
- 👨‍🎓 I’m currently pursuing my Master of **Advanced Analytics and Big Data** degree at the SGH Warsaw School of Economics.
+ 👨‍🎓 I’m currently pursuing my Master of **Advanced Analytics and Big Data** at the SGH Warsaw School of Economics.
  
  🔍 I’m currently learning **duration analysis, Spark, PL-SQL**
 
@@ -21,14 +21,17 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:cemhan.senol06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/cemhan-%C5%9Fenol-b60570144/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.kaggle.com/cemhansenol98" target="_blank">
+     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://www.hackerrank.com/senolcemhan" target="_blank">
+     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=py,mysql,postgres,aws,sqlite,sklearn,fastapi,selenium" />
+    <img src="https://skillicons.dev/icons?i=anaconda,vscode,git,github,bitbucket,r,postman,bootstrap,html,css,jenkins,opencv,tensorflow,pytorch,stackoverflow" /><br>
 </div>
 
 <br/>
