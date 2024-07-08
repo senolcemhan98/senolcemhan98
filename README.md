@@ -47,14 +47,14 @@
 <br/>
 
 <hr/>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img  src="https://github.com/senolcemhan98/contribution-cal-snake/blob/master/animation/snake.gif" alt="snake" />
   <br/><br/><br/>
 </div>
-
+//-->
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
